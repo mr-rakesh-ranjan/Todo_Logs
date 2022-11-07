@@ -86,8 +86,8 @@ function App() {
 
 export default App;
 {/* 
- <--------------------------------- My Notes ------------------------------------->
-     jsx - Javascript syntax extension
+<--------------------------------- My Notes ------------------------------------->
+    jsx - Javascript syntax extension
 
   className - keyword for jsx
   In react two types of component 
